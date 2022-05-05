@@ -11,3 +11,5 @@ Para abrir o cypress
 Os arquivos de teste estão no caminho
 
 `cypress/integration`
+
+[Cocumentação Cypress](https://docs.cypress.io/guides/overview/why-cypress)
